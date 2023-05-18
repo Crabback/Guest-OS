@@ -1,0 +1,10 @@
+PennOS Log
+Running at Sun Apr 23 12:02:41 2023
+[0    ]	CREATE  	1  	-1	shell
+[20   ]	CREATE  	2  	0 	sleep
+[20   ]	BLOCKED  	1  	-1	shell
+[20   ]	BLOCKED  	2  	0 	sleep
+[29   ]	SIGNALED	2  	0 	sleep
+[29   ]	ZOMBIE  	2  	0 	sleep
+[29   ]	UNBLOCKED	1  	-1	shell
+[30   ]	WAITED  	2  	0 	sleep

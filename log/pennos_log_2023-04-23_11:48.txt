@@ -1,0 +1,4 @@
+PennOS Log
+Running at Sun Apr 23 11:48:40 2023
+[0    ]	CREATE  	1  	-1	shell
+[79   ]	CREATE  	2  	0 	zombify

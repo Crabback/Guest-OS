@@ -1,0 +1,9 @@
+PennOS Log
+Running at Sun Apr 23 12:13:53 2023
+[0    ]	CREATE  	1  	-1	shell
+[25   ]	CREATE  	2  	0 	echo
+[25   ]	BLOCKED  	1  	-1	shell
+[26   ]	EXITED  	2  	0 	echo
+[26   ]	ZOMBIE  	2  	0 	echo
+[26   ]	UNBLOCKED	1  	-1	shell
+[26   ]	WAITED  	2  	0 	echo
